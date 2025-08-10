@@ -1,0 +1,14 @@
+{
+  "name": "wah",
+  "version": "1.0.0",
+  "description": "yea",
+  "main": "lab2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jokes": "^0.0.2"
+  }
+}
